@@ -1,0 +1,50 @@
+﻿@model SNKRS.ViewModels.HomeViewModel
+
+@{
+    ViewBag.Title = "Trang chủ";
+}
+
+<section class="highlight-phone">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="intro">
+                    <h2>Đăng thông tin tuyển dụng<br></h2>
+                    <p>Cơ hội để gặp mặt các nhà tuyển dụng thuộc Top đầu của ngành Công nghệ thông tin</p><a href="@Url.Action("Create", "Portfolio")" class="btn btn-primary">Đăng Ngay</a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <img class="w-100" src="~/Content/Images/cong-tac-tuyen-dung-nhan-su-3.jpg">
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <h1 class="py-3"></h1>
+        <div class="reflow-product-list ref-cards">
+            <h1>Mới nhất</h1>
+            <div class="ref-products">
+
+                @foreach (var item in Model.Upcoming)
+                {
+                    <a class="ref-product" href="@Url.Action("Details", "Portfolio", new { id = item.Id })">
+                        <img class="ref-image" src="@item.Image" loading="lazy">
+                        <div class="ref-product-data">
+                            <div class="ref-product-info">
+                                <h5 class="ref-name">@item.Name</h5>
+                            </div>
+
+                        </div>
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+ 
+
+<section>
+    <div class="brands"><a href="#"> <img src="~/Content/Images/instacart.png"><img src="~/Content/Images/kickstarter.png"><img src="~/Content/Images/lyft.png"><img src="~/Content/Images/shopify.png"><img src="~/Content/Images/pinterest.png"><img src="~/Content/Images/twitter.png"></a></div>
+</section>

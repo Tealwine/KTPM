@@ -1,0 +1,37 @@
+﻿@model SNKRS.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Cài đặt";
+    ViewBag.Current = "Settings";
+    Layout = "~/Views/Account/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Setting", "Account"))
+{
+    @Html.AntiForgeryToken()
+    <div class="card">
+        <div class="card-body">
+            @Html.HiddenFor(mode => mode.Id)
+            <div class="form-group mb-3">
+                @Html.LabelFor(model => model.Name, "Tên", new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+
+            </div>
+
+            <div class="form-group mb-3">
+                @Html.LabelFor(model => model.PhoneNumber, "Số điện thoại ", new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @class = "form-control" } })
+
+            </div>
+
+            <div class="form-group mb-3">
+                @Html.LabelFor(model => model.Address, "Địa chỉ", new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+
+            </div>
+            <div class="d-grid gap-2">
+                <button type="submit" class="btn btn-success">Lưu</button>
+            </div>
+        </div>
+    </div>
+}
