@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|c:\\users\\ngomu\\downloads\\dacs (1)\\dacs (1)\\dacs\\snkrs\\views\\portfolio\\listportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\portfolio\\listportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\assets\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\assets\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\views\\portfolio\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\portfolio\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\views\\portfolio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\portfolio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\views\\portfolio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\views\\portfolio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\migrations\\202406121014133_updatez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\migrations\\202406121014133_updatez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\viewmodels\\portfolioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\viewmodels\\portfolioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\snkrs\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD02A58F-2523-49CF-80C8-BE00BAAC951D}|SNKRS\\PortfolioWeb.csproj|solutionrelative:snkrs\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Models\\Portfolio.cs",
+              "RelativeToolTip": "SNKRS\\Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:21:43.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "theme.css",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\assets\\css\\theme.css",
+              "RelativeDocumentMoniker": "SNKRS\\assets\\css\\theme.css",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\assets\\css\\theme.css",
+              "RelativeToolTip": "SNKRS\\assets\\css\\theme.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T10:55:56.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAEBVwCIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:01:29.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Portfolio\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\Edit.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Portfolio\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T16:46:34.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:42:22.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAowIYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T17:10:45.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListPortfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\ListPortfolio.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Portfolio\\ListPortfolio.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\ListPortfolio.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Portfolio\\ListPortfolio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:14:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T17:58:15.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:42:37.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T16:45:18.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAEBlwC8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T16:45:48.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\Details.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Portfolio\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\Details.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Portfolio\\Details.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T17:50:27.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "SNKRS\\Controllers\\PortfolioController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:42:20.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\Create.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Views\\Portfolio\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Views\\Portfolio\\Create.cshtml",
+              "RelativeToolTip": "SNKRS\\Views\\Portfolio\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T16:46:22.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T16:55:31.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T16:53:59.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SNKRS\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:12:51.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "202406121014133_Updatez.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Migrations\\202406121014133_Updatez.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Migrations\\202406121014133_Updatez.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Migrations\\202406121014133_Updatez.cs",
+              "RelativeToolTip": "SNKRS\\Migrations\\202406121014133_Updatez.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:14:18.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwDUAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T16:51:38.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:08:40.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SNKRS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SNKRS\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:08:41.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PortfolioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\ViewModels\\PortfolioViewModel.cs",
+              "RelativeDocumentMoniker": "SNKRS\\ViewModels\\PortfolioViewModel.cs",
+              "ToolTip": "C:\\Users\\Ngomu\\Downloads\\DACS (1)\\DACS (1)\\DACS\\SNKRS\\ViewModels\\PortfolioViewModel.cs",
+              "RelativeToolTip": "SNKRS\\ViewModels\\PortfolioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:42:42.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
